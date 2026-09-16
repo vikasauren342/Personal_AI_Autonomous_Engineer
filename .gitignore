@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Local model weights and caches
+models/
+**/models/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Hugging Face / Transformers caches
+.cache/
+huggingface/
+**/.cache/
+**/huggingface/
+
+# Runtime state
+runtime/
+**/runtime/
+logs/
+**/logs/
+checkpoints/
+**/checkpoints/
+snapshots/
+**/snapshots/
+run_history/
+**/run_history/
+execution/
+**/execution/
+
+# Generated outputs
+outputs/
+**/outputs/
+artifacts/
+**/artifacts/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
