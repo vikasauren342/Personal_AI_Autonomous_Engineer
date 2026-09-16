@@ -1,0 +1,18 @@
+{
+  "active": [
+    "general",
+    "research",
+    "coding"
+  ],
+  "planned": [
+    "planner",
+    "critic",
+    "browser",
+    "tool",
+    "media",
+    "business",
+    "decision",
+    "robotics",
+    "self_improvement"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "version": "1.0",
+  "description": "Central registry describing Personal AI module knowledge sources.",
+  "created_at": "2026-08-19T12:45:53.220326+00:00",
+  "updated_at": "2026-08-20T23:35:01.742079+00:00",
+  "modules": {
+    "acms": {
+      "module": "acms",
+      "name": "ACMS",
+      "data_path": "/content/drive/MyDrive/Personal_AI/03_modules/acms/data",
+      "data_types": [
+        "relationship_data",
+        "couple_data",
+        "analysis",
+        "reports"
+      ],
+      "searchable": true,
+      "cross_module_access": true,
+      "status": "registered"
+    },
+    "development_agent": {
+      "module": "development_agent",
+      "name": "Development Agent",
+      "data_path": "/content/drive/MyDrive/Personal_AI/03_modules/development_agent/data",
+      "data_types": [
+        "projects",
+        "source_code",
+        "architecture",
+        "tests",
+        "builds",
+        "debug_logs"
+      ],
+      "searchable": true,
+      "cross_module_access": true,
+      "status": "registered"
+    },
+    "spiritual_research": {
+      "module": "spiritual_research",
+      "name": "Spiritual Research",
+      "data_path": "/content/drive/MyDrive/Personal_AI/03_modules/spiritual_research/data",
+      "data_types": [
+        "research",
+        "documents",
+        "notes",
+        "concepts",
+        "analysis"
+      ],
+      "searchable": true,
+      "cross_module_access": true,
+      "status": "registered"
+    },
+    "image_generation": {
+      "module": "image_generation",
+      "name": "Image Generation",
+      "data_path": "/content/drive/MyDrive/Personal_AI/03_modules/image_generation/data",
+      "data_types": [
+        "prompts",
+        "generation_history",
+        "image_metadata"
+      ],
+      "searchable": true,
+      "cross_module_access": true,
+      "status": "registered"
+    },
+    "voice": {
+      "module": "voice",
+      "name": "Voice",
+      "data_path": "/content/drive/MyDrive/Personal_AI/03_modules/voice/data",
+      "data_types": [
+        "transcripts",
+        "voice_metadata"
+      ],
+      "searchable": true,
+      "cross_module_access": true,
+      "status": "registered"
+    },
+    "ai_music_creation": {
+      "module": "ai_music_creation",
+      "name": "AI Music Creation",
+      "data_path": "/content/drive/MyDrive/Personal_AI/03_modules/ai_music_creation/data",
+      "data_types": [
+        "music_profiles",
+        "generation_prompts",
+        "music_metadata",
+        "session_history",
+        "relaxation_music",
+        "meditation_music",
+        "spiritual_frameworks",
+        "sound_research",
+        "experimental_hypotheses"
+      ],
+      "searchable": true,
+      "cross_module_access": true,
+      "status": "registered"
+    },
+    "ai_video_creator": {
+      "module": "ai_video_creator",
+      "name": "AI Video Creator",
+      "data_path": "/content/drive/MyDrive/Personal_AI/03_modules/ai_video_creator/data",
+      "data_types": [
+        "video_projects",
+        "scripts",
+        "hooks",
+        "storyboards",
+        "scene_plans",
+        "generation_prompts",
+        "video_metadata",
+        "caption_files",
+        "voiceover_scripts",
+        "social_media_formats",
+        "reel_templates",
+        "youtube_short_templates",
+        "generation_history"
+      ],
+      "searchable": true,
+      "cross_module_access": true,
+      "status": "registered"
+    }
+  }
+}

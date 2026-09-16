@@ -1,0 +1,95 @@
+{
+  "profile": {
+    "name": "Vikas"
+  },
+  "preferences": {},
+  "goals": {},
+  "projects": {},
+  "important_facts": [],
+  "memories": [
+    {
+      "id": "33de76df-db2c-4fab-8001-ed1f320d40bb",
+      "category": "goal",
+      "content": "Create an AI-based marriage system",
+      "source": "user",
+      "confidence": 1.0,
+      "explicitness": "explicit",
+      "evidence": "User explicitly stated this goal during Personal AI memory testing.",
+      "status": "active",
+      "created_at": "2026-08-17T16:28:34.749916+00:00",
+      "updated_at": "2026-08-17T16:28:34.749916+00:00"
+    },
+    {
+      "id": "5957615d-686b-4ce6-bb4b-60837f772613",
+      "category": "project",
+      "content": "Building a personal AI system",
+      "source": "user",
+      "confidence": 1.0,
+      "explicitness": "explicit",
+      "evidence": "User explicitly stated that they are building a personal AI system.",
+      "status": "active",
+      "created_at": "2026-08-17T16:28:34.760593+00:00",
+      "updated_at": "2026-08-17T16:28:34.760593+00:00"
+    },
+    {
+      "id": "fbc01b83-3605-4a8c-be01-16ca0df0fb3f",
+      "category": "goal",
+      "content": "Research spirituality using AI",
+      "source": "user",
+      "confidence": 1.0,
+      "explicitness": "explicit",
+      "evidence": "User explicitly stated this research goal.",
+      "status": "active",
+      "created_at": "2026-08-17T16:28:34.760663+00:00",
+      "updated_at": "2026-08-17T16:28:34.760663+00:00"
+    },
+    {
+      "id": "83546252-5412-4557-8e92-16d16ddce9a7",
+      "category": "goal",
+      "content": "Build an AI system for relationship analysis",
+      "source": "user",
+      "confidence": 1.0,
+      "explicitness": "explicit",
+      "evidence": "User explicitly stated this goal.",
+      "status": "active",
+      "created_at": "2026-08-17T16:28:34.760687+00:00",
+      "updated_at": "2026-08-17T16:28:34.760687+00:00"
+    },
+    {
+      "id": "e20cd789-84b7-40fa-a178-cbd6d65e7d0c",
+      "category": "preference",
+      "content": "Prefer detailed explanations with practical examples",
+      "source": "user",
+      "confidence": 1.0,
+      "explicitness": "explicit",
+      "evidence": "User explicitly stated this communication preference.",
+      "status": "active",
+      "created_at": "2026-08-17T16:28:34.760705+00:00",
+      "updated_at": "2026-08-17T16:28:34.760705+00:00"
+    },
+    {
+      "id": "4a5f61ce-aa1c-44bc-a386-22e6cf123284",
+      "category": "interest",
+      "content": "Embedded systems",
+      "source": "user",
+      "confidence": 1.0,
+      "explicitness": "explicit",
+      "evidence": "User explicitly stated interest in embedded systems.",
+      "status": "active",
+      "created_at": "2026-08-17T16:28:34.760722+00:00",
+      "updated_at": "2026-08-17T16:28:34.760722+00:00"
+    },
+    {
+      "id": "ae05ea07-4f08-484a-9bba-068c2d73b1b4",
+      "category": "project",
+      "content": "May build a spiritual research tool",
+      "source": "user",
+      "confidence": 0.6,
+      "explicitness": "tentative",
+      "evidence": "Maybe I will build a spiritual research tool someday.",
+      "status": "tentative",
+      "created_at": "2026-08-17T16:28:34.760738+00:00",
+      "updated_at": "2026-08-17T16:28:34.760738+00:00"
+    }
+  ]
+}

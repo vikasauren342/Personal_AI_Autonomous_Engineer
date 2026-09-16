@@ -1,0 +1,19 @@
+{
+  "backends": [
+    "text",
+    "audio",
+    "music",
+    "image",
+    "video"
+  ],
+  "architecture": "universal_generation_engine",
+  "supported_types": [
+    "text",
+    "audio",
+    "music",
+    "image",
+    "video"
+  ],
+  "resource_policy": "on_demand_heavy_models",
+  "timestamp": "2026-08-23T21:18:18.385651"
+}

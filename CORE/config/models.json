@@ -1,0 +1,30 @@
+{
+  "backends": [
+    {
+      "id": "qwen_local",
+      "kind": "transformers",
+      "lazy": true,
+      "capabilities": ["chat", "reasoning", "json", "planning"],
+      "preferred_models": ["Qwen/Qwen3-8B-AWQ", "Qwen/Qwen3-8B"],
+      "resolution": "PERSONAL_AI_MODEL_DIR > project models > Kaggle/Colab candidate paths"
+    },
+    {
+      "id": "fallback",
+      "kind": "deterministic",
+      "lazy": true,
+      "capabilities": ["chat", "routing", "planning"]
+    },
+    {
+      "id": "future_local",
+      "kind": "pluggable",
+      "lazy": true,
+      "capabilities": ["*"]
+    },
+    {
+      "id": "future_api",
+      "kind": "pluggable",
+      "lazy": true,
+      "capabilities": ["*"]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "module_id": "video_reels",
+  "name": "AI Video & Reel Creator",
+  "version": "1.0.0",
+  "status": "foundation_ready",
+  "description": "Persistent Personal AI module for planning, generating, composing and exporting short-form video content including Instagram Reels and YouTube Shorts.",
+  "capabilities": [
+    "reel_ideation",
+    "script_generation",
+    "hook_generation",
+    "scene_planning",
+    "video_prompt_generation",
+    "image_prompt_generation",
+    "voiceover_script_generation",
+    "caption_generation",
+    "audio_direction",
+    "video_generation",
+    "media_composition",
+    "vertical_9_16_export",
+    "ffmpeg_rendering"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Hinglish"
+  ],
+  "target_formats": [
+    "Instagram Reels",
+    "YouTube Shorts",
+    "vertical short-form video"
+  ],
+  "architecture": {
+    "director": "Qwen",
+    "video_backend": "pluggable",
+    "image_backend": "pluggable",
+    "tts_backend": "pluggable",
+    "music_backend": "pluggable",
+    "composer": "FFmpeg",
+    "storage": "Google Drive"
+  },
+  "resource_policy": {
+    "heavy_models_on_demand": true,
+    "one_heavy_model_at_a_time": true,
+    "unload_after_generation": true,
+    "prefer_persistent_drive_assets": true
+  },
+  "paths": {
+    "module_root": "/content/drive/MyDrive/Personal_AI/06_modules/video_reels",
+    "outputs": "/content/drive/MyDrive/Personal_AI/08_generation/outputs/reels",
+    "video_outputs": "/content/drive/MyDrive/Personal_AI/08_generation/outputs/video",
+    "image_outputs": "/content/drive/MyDrive/Personal_AI/08_generation/outputs/images",
+    "audio_outputs": "/content/drive/MyDrive/Personal_AI/08_generation/outputs/audio",
+    "music_outputs": "/content/drive/MyDrive/Personal_AI/08_generation/outputs/music"
+  },
+  "created_at": "2026-09-10T19:07:53.087289+00:00"
+}

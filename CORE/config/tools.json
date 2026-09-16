@@ -1,0 +1,15 @@
+{
+  "enabled": [
+    "python",
+    "shell",
+    "filesystem_read"
+  ],
+  "planned": [
+    "web",
+    "browser",
+    "git",
+    "ffmpeg",
+    "messaging",
+    "hardware"
+  ]
+}

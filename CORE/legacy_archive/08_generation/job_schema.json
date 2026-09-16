@@ -1,0 +1,23 @@
+{
+  "job_id": "unique_id",
+  "user_request": "",
+  "module": "",
+  "task_type": "",
+  "inputs": {},
+  "options": {
+    "quality": "balanced",
+    "duration": null,
+    "resolution": null,
+    "format": null
+  },
+  "resources": {
+    "device": "auto",
+    "model": null,
+    "max_memory": null
+  },
+  "output": {
+    "type": null,
+    "path": null
+  },
+  "status": "pending"
+}

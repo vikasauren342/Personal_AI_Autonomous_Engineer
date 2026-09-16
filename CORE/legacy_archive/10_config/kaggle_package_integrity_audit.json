@@ -1,0 +1,204 @@
+{
+  "created_at": "2026-09-10T22:08:06.080491",
+  "source_master": "/content/drive/MyDrive/Personal_AI",
+  "export_root": "/content/drive/MyDrive/Personal_AI/kaggle_export",
+  "core": {
+    "files": 28,
+    "size_bytes": 50866,
+    "records": [
+      {
+        "path": "01_core/module_contract.py",
+        "size_bytes": 726,
+        "sha256": "ee5fadb69969ca8287580c7e2e43f15ee43d1defb2dc5d6a67280cf9449499a4"
+      },
+      {
+        "path": "05_memory/memory_db.json",
+        "size_bytes": 3822,
+        "sha256": "a79c81f455f518be58cefda1ad2c18592f4c5a6d1d3f76652923e6f0066346a7"
+      },
+      {
+        "path": "05_memory/personal_memory.json",
+        "size_bytes": 3246,
+        "sha256": "ae8cf6f27a5b4d2ab13714d8f6952e651eba58407c4684093de8cd1b8238be82"
+      },
+      {
+        "path": "05_runtime/knowledge_registry.json",
+        "size_bytes": 3382,
+        "sha256": "a090d16accd86a3b93e07d38c6b57473037c4d048f101ca9f0f36391580ff825"
+      },
+      {
+        "path": "05_runtime/module_registry.json",
+        "size_bytes": 3759,
+        "sha256": "30936b69abddbda4d1ec1d7671647f0d5baec54b70246f43c1634a6bc987562a"
+      },
+      {
+        "path": "06_modules/video_reels/README.md",
+        "size_bytes": 671,
+        "sha256": "1276e2d0ff9d6ea95ff1945c9ffb75e583307185564eb422dcc4386b845bf73b"
+      },
+      {
+        "path": "06_modules/video_reels/config/default.json",
+        "size_bytes": 709,
+        "sha256": "b13680ca1eda37b4def484abd70d28607632b697804a2039f55b1b8769a7f23a"
+      },
+      {
+        "path": "06_modules/video_reels/directors/reel_director.py",
+        "size_bytes": 11052,
+        "sha256": "189beab7a393917451ea65657f79920b20ddf262a8b60984e4f902db9191ae93"
+      },
+      {
+        "path": "06_modules/video_reels/module.json",
+        "size_bytes": 1826,
+        "sha256": "68d06df5d507d69d8198ea073ea73f96e6ac9718e5fd3ada640eac8756813bef"
+      },
+      {
+        "path": "06_modules/video_reels/prompts/reel_director.txt",
+        "size_bytes": 599,
+        "sha256": "2ce69d4e1f20a07bcb3423b58af470a981bacf9aada5307ef1581af6f8f2379d"
+      },
+      {
+        "path": "06_modules/video_reels/tests/foundation_test.json",
+        "size_bytes": 210,
+        "sha256": "4e0f74fdf9b90a1058657fe931a5b83b9dbf383fee3b8ca0ae0569499c176994"
+      },
+      {
+        "path": "08_generation/job_schema.json",
+        "size_bytes": 375,
+        "sha256": "e148309ca0ddcfb1ce18fd0c74a2a190b26685bf034fe4c16911b9afac78a939"
+      },
+      {
+        "path": "08_generation/jobs/20260823_211818_77d9d84f.json",
+        "size_bytes": 528,
+        "sha256": "26bdaf3c4392297292ea366640bb2003b5fe61c179e9cdd66548a711f66d9544"
+      },
+      {
+        "path": "08_generation/outputs/reels/safe31_2_reel_plan_20260910_191409.json",
+        "size_bytes": 5864,
+        "sha256": "30d30e772c69a7c1b346b696efd2983cbd43f9f306bc383a66cd7d4a1d1e3943"
+      },
+      {
+        "path": "08_generation/products/product_6be5e33e7015.json",
+        "size_bytes": 1391,
+        "sha256": "00c6e18415731d092d7a0aca530d96072004bf9eef453e03c2d034fa25328a8f"
+      },
+      {
+        "path": "08_generation/products/product_afe698c4ff67.json",
+        "size_bytes": 1252,
+        "sha256": "b028d7e720d21fc66e6d54718914b013c32206bb8b3380f9715485bb2524006e"
+      },
+      {
+        "path": "08_generation/products/product_cac27378a342.json",
+        "size_bytes": 1577,
+        "sha256": "b3a80f40aa464b3f9e7e6a9a94c4b54178dbf9fe55f1d4592a372eee40013b49"
+      },
+      {
+        "path": "10_config/generation_engine_status.json",
+        "size_bytes": 318,
+        "sha256": "b707f27a848822f1d209e884c1a07a353b98298d57b7c332362b72df889288f9"
+      },
+      {
+        "path": "10_config/hardware_profile.json",
+        "size_bytes": 271,
+        "sha256": "da914f4da0b670ec6db6efb8c5c03f9c6dd792bdd432c15f4b1f7ceb2a3848d1"
+      },
+      {
+        "path": "10_config/kaggle_package_manifest.json",
+        "size_bytes": 1688,
+        "sha256": "89fdfc95595d9b3978e3341cefb09d313008a4eaee22452844ef2d603a3702a8"
+      },
+      {
+        "path": "10_config/local_media_capability_audit.json",
+        "size_bytes": 1950,
+        "sha256": "4b9e60f07bbf01dbd08b812985293c0abc5db283df46e3163a1feeb788db145d"
+      },
+      {
+        "path": "10_config/local_model_selection.json",
+        "size_bytes": 1714,
+        "sha256": "7cfd33f43f6b19180b925aa65f850fba785b06a8d0ed8ad74962ce97ea692e80"
+      },
+      {
+        "path": "10_config/model_manager_status.json",
+        "size_bytes": 225,
+        "sha256": "597e7d07732763175d0ca68a8fc7859e7e0871de81eaa16202551bef6aebb6bb"
+      },
+      {
+        "path": "10_config/model_registry.json",
+        "size_bytes": 917,
+        "sha256": "40ddc8e761c631e358eab29b090a1493938f2b8ca7472222a843f7687fa6b2d7"
+      },
+      {
+        "path": "10_config/module_registry.json",
+        "size_bytes": 1377,
+        "sha256": "d1c4876fde34355f08183f1ae89150f0a7ceca8e2836b6987c2ffd8de14a3cfa"
+      },
+      {
+        "path": "10_config/resource_status.json",
+        "size_bytes": 132,
+        "sha256": "41be15cfbe6cfd016a444c2839ad1548fbcbb173b64415e8ac38d2c4866dfe4b"
+      },
+      {
+        "path": "10_config/system_config.json",
+        "size_bytes": 703,
+        "sha256": "18e5608eadf71f7653751dca57427ccaed96d3d342a05ee3748168867610a6e1"
+      },
+      {
+        "path": "10_config/video_backend_capability_audit.json",
+        "size_bytes": 582,
+        "sha256": "e695871d90891e5a60cb55d7aacff75870ca1f4be2d4be52526bc625d1f14ec1"
+      }
+    ]
+  },
+  "qwen": {
+    "files": 7,
+    "size_bytes": 3098955668,
+    "records": [
+      {
+        "path": "config.json",
+        "size_bytes": 660,
+        "sha256": "98d2ff8cc47488d08a2b0b3acf4eb99ef210779b42bd48605f6b8e36acdbf670"
+      },
+      {
+        "path": "generation_config.json",
+        "size_bytes": 242,
+        "sha256": "e558847a8b4402616f1273797b015104dc266fe4b520056fca88823ba8f8ebe6"
+      },
+      {
+        "path": "merges.txt",
+        "size_bytes": 1671839,
+        "sha256": "599bab54075088774b1733fde865d5bd747cbcc7a547c5bc12610e874e26f5e3"
+      },
+      {
+        "path": "model.safetensors",
+        "size_bytes": 3087467144,
+        "sha256": "dd924a11b4c220f385b51ffa522daea7c9f3d850e31b162bb5661df483c6d3ee"
+      },
+      {
+        "path": "tokenizer.json",
+        "size_bytes": 7031645,
+        "sha256": "c0382117ea329cdf097041132f6d735924b697924d6f6fc3945713e96ce87539"
+      },
+      {
+        "path": "tokenizer_config.json",
+        "size_bytes": 7305,
+        "sha256": "5b5d4f65d0acd3b2d56a35b56d374a36cbc1c8fa5cf3b3febbbfabf22f359583"
+      },
+      {
+        "path": "vocab.json",
+        "size_bytes": 2776833,
+        "sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910"
+      }
+    ]
+  },
+  "required_qwen_files": [
+    "config.json",
+    "generation_config.json",
+    "model.safetensors",
+    "tokenizer.json",
+    "tokenizer_config.json",
+    "vocab.json",
+    "merges.txt"
+  ],
+  "missing_qwen_files": [],
+  "source_modified": false,
+  "kaggle_upload_performed": false
+}

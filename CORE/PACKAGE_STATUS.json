@@ -1,0 +1,14 @@
+{
+  "package_name": "Personal_AI_AGI_Core_v3_0",
+  "package_version": "3.0.1-supreme-core-2026-09-14",
+  "release_type": "clean-core",
+  "source_policy": "canonical V3 foundation + non-foundation runtime hardening",
+  "foundation_modified": false,
+  "autonomous_runner_included": false,
+  "reconstruction_package_included": false,
+  "historical_notebooks_included": false,
+  "model_weights_bundled": false,
+  "qwen_runtime": "external; Qwen3-8B-AWQ or another compatible Transformers model may be supplied at runtime",
+  "baseline_tests": "verified after packaging",
+  "claim_boundary": "AGI-ready architecture, not AGI itself"
+}

@@ -1,0 +1,22 @@
+{
+  "product_id": "product_afe698c4ff67",
+  "product_type": "audio",
+  "created_at": "2026-08-23T21:22:07.405739",
+  "input": {
+    "purpose": "guided relaxation and meditation",
+    "mood": "calm, grounded, peaceful",
+    "duration": "10 minutes",
+    "voice": "slow, warm, gentle",
+    "soundscape": "soft ambient background",
+    "language": "Hindi",
+    "audience": "adults seeking a relaxation practice"
+  },
+  "prompt": {
+    "prompt_id": "202b9fa7f4a8",
+    "type": "audio",
+    "prompt": "ROLE: Expert Audio Generation Prompt designer\nOBJECTIVE: Create high-quality audio output.\n\nINPUT SPECIFICATION:\n- purpose: guided relaxation and meditation\n- mood: calm, grounded, peaceful\n- duration: 10 minutes\n- voice: slow, warm, gentle\n- soundscape: soft ambient background\n- language: Hindi\n- audience: adults seeking a relaxation practice\n\nQUALITY REQUIREMENTS:\n- Follow the supplied specifications.\n- Optimize for clarity and usability.\n- Avoid unnecessary filler.\n- Produce a practical production-ready result.\n- Respect platform constraints.\n- Clearly separate factual claims from creative or spiritual interpretation.",
+    "missing_fields": [],
+    "created_at": "2026-08-23T21:22:07.405719"
+  },
+  "status": "prompt_ready"
+}

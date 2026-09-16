@@ -1,0 +1,12 @@
+{
+  "registered_models": [
+    "qwen_text",
+    "audio_generation",
+    "music_generation",
+    "image_generation",
+    "video_generation"
+  ],
+  "loaded_models": [],
+  "device": "cuda",
+  "timestamp": "2026-08-23 21:17:24"
+}

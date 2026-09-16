@@ -1,0 +1,36 @@
+{
+  "system_name": "Personal AI",
+  "version": "1.0",
+  "architecture": "modular_local_first",
+  "hardware": {
+    "preferred_device": "cuda",
+    "fallback_device": "cpu",
+    "max_gpu_memory_fraction": 0.85
+  },
+  "execution": {
+    "mode": "on_demand",
+    "parallel_heavy_models": false,
+    "unload_unused_models": true,
+    "save_outputs": true
+  },
+  "generation": {
+    "text": true,
+    "audio": true,
+    "music": true,
+    "image": true,
+    "video": true,
+    "reels": true,
+    "documents": true,
+    "code": true
+  },
+  "scaling": {
+    "current": "colab_t4",
+    "future": [
+      "larger_gpu",
+      "multi_gpu",
+      "local_workstation",
+      "local_server",
+      "cloud"
+    ]
+  }
+}

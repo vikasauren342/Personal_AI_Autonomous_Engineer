@@ -1,0 +1,21 @@
+{
+  "package": "Personal AI AGI-Ready Autonomous Core",
+  "version": "3.0.0",
+  "principles": [
+    "single_core",
+    "no_duplicate_exports",
+    "model_agnostic",
+    "environment_agnostic",
+    "lazy_loading",
+    "persistent_memory",
+    "routing",
+    "tools",
+    "coding_agent",
+    "bounded_autonomy",
+    "evaluation",
+    "self_debug_ledger",
+    "future_training",
+    "hardware_optional"
+  ],
+  "note": "AGI-ready architecture means designed for future expansion; it does not claim AGI capability."
+}

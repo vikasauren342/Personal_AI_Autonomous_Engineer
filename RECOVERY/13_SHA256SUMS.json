@@ -1,0 +1,12 @@
+{
+  "core_zip": {
+    "name": "Personal_AI_AGI_Core_v3_0_SUPREME_CORE_3_0_1.zip",
+    "sha256": "4eb1df08d88257828f9897853a113afd4f92fccb701e341527fb16ead9eff762"
+  },
+  "foundation_hashes": {
+    "personal_ai/bootstrap.py": "a36671eef8371dc1ffb7b790d977cfd2cb4419a489cdb442613ebc3fe1f0a5db",
+    "personal_ai/core/contracts.py": "7922dae35487a6f8d0d1e2c4d5fa2e4512e780a2cbebb9c25cd0624e89b69080",
+    "personal_ai/core/planner.py": "112015d303fad1a2ec44617b2f03ba61dcf63f9ce779dd209ac22dfd1864497a",
+    "personal_ai/execution/engine.py": "36f847ca5972e034a44659ea932727379edaddcde735ef54de52ed1a305cf56a"
+  }
+}

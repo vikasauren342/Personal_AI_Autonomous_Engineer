@@ -1,0 +1,18 @@
+{
+  "schema_version": "3.0.1",
+  "updated": "2026-09-14",
+  "core_release": "Personal_AI_AGI_Core_v3_0_SUPREME_CORE_3_0_1.zip",
+  "core_sha256": "4eb1df08d88257828f9897853a113afd4f92fccb701e341527fb16ead9eff762",
+  "latest_notebook": "personal-ai-agi-v3 (6).ipynb",
+  "latest_notebook_cells": 219,
+  "latest_recorded_milestone": "KAGGLE-088",
+  "foundation_locked": true,
+  "foundation_files": [
+    "personal_ai/bootstrap.py",
+    "personal_ai/core/contracts.py",
+    "personal_ai/core/planner.py",
+    "personal_ai/execution/engine.py"
+  ],
+  "source_persistence_warning": true,
+  "autonomous_start": "120-AUTO-0"
+}

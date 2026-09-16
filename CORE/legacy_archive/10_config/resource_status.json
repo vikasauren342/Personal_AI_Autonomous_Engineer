@@ -1,0 +1,9 @@
+{
+  "device": "cuda",
+  "gpu_memory": {
+    "free_gb": 14.46,
+    "total_gb": 14.56,
+    "used_gb": 0.1
+  },
+  "loaded_models": []
+}

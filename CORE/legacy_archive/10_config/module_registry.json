@@ -1,0 +1,50 @@
+{
+  "acms": {
+    "enabled": true,
+    "category": "relationship",
+    "runtime": "on_demand",
+    "path": "/content/drive/MyDrive/Personal_AI/06_modules/acms"
+  },
+  "embedded": {
+    "enabled": true,
+    "category": "engineering",
+    "runtime": "on_demand",
+    "path": "/content/drive/MyDrive/Personal_AI/06_modules/embedded"
+  },
+  "spirituality": {
+    "enabled": true,
+    "category": "spiritual_research",
+    "runtime": "on_demand",
+    "path": "/content/drive/MyDrive/Personal_AI/06_modules/spirituality"
+  },
+  "audio_music": {
+    "enabled": true,
+    "category": "audio_generation",
+    "runtime": "on_demand",
+    "path": "/content/drive/MyDrive/Personal_AI/06_modules/audio_music"
+  },
+  "video_reels": {
+    "enabled": true,
+    "category": "video_generation",
+    "runtime": "on_demand",
+    "path": "/content/drive/MyDrive/Personal_AI/06_modules/video_reels"
+  },
+  "business": {
+    "enabled": true,
+    "category": "business",
+    "runtime": "on_demand",
+    "path": "/content/drive/MyDrive/Personal_AI/06_modules/business"
+  },
+  "coding": {
+    "enabled": true,
+    "category": "coding",
+    "runtime": "on_demand",
+    "path": "/content/drive/MyDrive/Personal_AI/06_modules/coding"
+  },
+  "research": {
+    "enabled": true,
+    "category": "research",
+    "runtime": "on_demand",
+    "path": "/content/drive/MyDrive/Personal_AI/06_modules/research"
+  }
+}

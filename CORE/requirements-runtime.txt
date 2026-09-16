@@ -1,0 +1,4 @@
+transformers>=4.51.3
+# PyTorch/Accelerate are environment-dependent on Kaggle/Colab/local GPU.
+torch>=2.2
+accelerate>=0.30

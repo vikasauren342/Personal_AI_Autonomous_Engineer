@@ -1,0 +1,11 @@
+{
+  "name": "Personal_AI_AGI_Core_v3_0",
+  "release": "3.0.1-SUPREME-CORE",
+  "date": "2026-09-14",
+  "type": "clean-core",
+  "foundation": "V3.0 protected",
+  "autonomous_runner": false,
+  "reconstruction_package": false,
+  "model_weights": false,
+  "verification": "scripts/verify_core.py + pytest"
+}

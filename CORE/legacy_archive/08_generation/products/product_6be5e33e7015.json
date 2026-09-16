@@ -1,0 +1,23 @@
+{
+  "product_id": "product_6be5e33e7015",
+  "product_type": "reel",
+  "created_at": "2026-08-23T21:22:07.383732",
+  "input": {
+    "topic": "Why businesses should automate repetitive tasks",
+    "hook": "Still doing this manually?",
+    "audience": "small business owners",
+    "duration": "30 seconds",
+    "visual_style": "clean modern technology",
+    "voice": "confident educational",
+    "captions": "large readable captions",
+    "cta": "Follow for practical automation ideas"
+  },
+  "prompt": {
+    "prompt_id": "5bdb23432926",
+    "type": "reel",
+    "prompt": "ROLE: Expert Instagram Reel Prompt designer\nOBJECTIVE: Create high-quality reel output.\n\nINPUT SPECIFICATION:\n- topic: Why businesses should automate repetitive tasks\n- hook: Still doing this manually?\n- audience: small business owners\n- duration: 30 seconds\n- visual_style: clean modern technology\n- voice: confident educational\n- captions: large readable captions\n- cta: Follow for practical automation ideas\n\nQUALITY REQUIREMENTS:\n- Follow the supplied specifications.\n- Optimize for clarity and usability.\n- Avoid unnecessary filler.\n- Produce a practical production-ready result.\n- Respect platform constraints.\n- Clearly separate factual claims from creative or spiritual interpretation.",
+    "missing_fields": [],
+    "created_at": "2026-08-23T21:22:07.383704"
+  },
+  "status": "prompt_ready"
+}

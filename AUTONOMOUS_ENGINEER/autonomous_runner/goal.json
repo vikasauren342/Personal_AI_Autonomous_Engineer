@@ -1,0 +1,30 @@
+{
+  "name": "Personal AI + AGI Base Architecture",
+  "current_known_point": "KAGGLE-088+ in latest uploaded Kaggle notebook; historical roadmap continues through portability/recovery and later agent capabilities.",
+  "principles": [
+    "Preserve verified foundation; never silently rebuild/retrain it.",
+    "Prefer deterministic tests over self-declared PASS.",
+    "Use the local model as planner/diagnostician, not as the final authority.",
+    "Every generated change must be syntax-checked, executed, tested, verified, and checkpointed.",
+    "Stop for human approval on destructive, security-sensitive, irreversible, paid, external-account, or ambiguous actions.",
+    "Keep personal and SaaS/business data logically isolated.",
+    "Keep model weights external to the source package when practical.",
+    "Treat Kaggle/Colab as temporary compute workers, not permanent state."
+  ],
+  "long_term_targets": [
+    "portable Personal AI core",
+    "conversation + persistent memory + context",
+    "module registry and dynamic routing",
+    "remote worker protocol",
+    "Kaggle/Colab/local/cloud adapters",
+    "research agent",
+    "coding and debugging agent",
+    "firmware/electronics agent",
+    "LifeOS",
+    "multimodal/vision",
+    "creative/video capabilities",
+    "IoT AI backend",
+    "isolated SaaS/business plane",
+    "advanced autonomous-agent/AGI research"
+  ]
+}

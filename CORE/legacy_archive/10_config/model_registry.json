@@ -1,0 +1,42 @@
+{
+  "qwen_text": {
+    "name": "Qwen 1.5B Instruct",
+    "model_id": "Qwen/Qwen2.5-1.5B-Instruct",
+    "type": "text",
+    "heavy": true,
+    "load_mode": "on_demand",
+    "enabled": true
+  },
+  "audio_generation": {
+    "name": "Audio Generation Backend",
+    "model_id": null,
+    "type": "audio",
+    "heavy": true,
+    "load_mode": "on_demand",
+    "enabled": true
+  },
+  "music_generation": {
+    "name": "Music Generation Backend",
+    "model_id": null,
+    "type": "music",
+    "heavy": true,
+    "load_mode": "on_demand",
+    "enabled": true
+  },
+  "image_generation": {
+    "name": "Image Generation Backend",
+    "model_id": null,
+    "type": "image",
+    "heavy": true,
+    "load_mode": "on_demand",
+    "enabled": true
+  },
+  "video_generation": {
+    "name": "Video Generation Backend",
+    "model_id": null,
+    "type": "video",
+    "heavy": true,
+    "load_mode": "on_demand",
+    "enabled": true
+  }
+}

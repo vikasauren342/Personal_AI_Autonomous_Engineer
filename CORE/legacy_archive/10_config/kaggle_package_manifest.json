@@ -1,0 +1,87 @@
+{
+  "root": "/content/drive/MyDrive/Personal_AI",
+  "core": [
+    {
+      "path": "01_core",
+      "exists": true,
+      "file_count": 1,
+      "total_size_bytes": 726,
+      "total_size_gb": 0.0,
+      "extensions": {
+        ".py": 1
+      }
+    },
+    {
+      "path": "05_memory",
+      "exists": true,
+      "file_count": 2,
+      "total_size_bytes": 7068,
+      "total_size_gb": 0.0,
+      "extensions": {
+        ".json": 2
+      }
+    },
+    {
+      "path": "05_runtime",
+      "exists": true,
+      "file_count": 2,
+      "total_size_bytes": 7141,
+      "total_size_gb": 0.0,
+      "extensions": {
+        ".json": 2
+      }
+    },
+    {
+      "path": "06_modules",
+      "exists": true,
+      "file_count": 7,
+      "total_size_bytes": 24068,
+      "total_size_gb": 0.0,
+      "extensions": {
+        ".json": 3,
+        ".md": 1,
+        ".py": 1,
+        ".txt": 1,
+        ".pyc": 1
+      }
+    },
+    {
+      "path": "08_generation",
+      "exists": true,
+      "file_count": 6,
+      "total_size_bytes": 10987,
+      "total_size_gb": 0.0,
+      "extensions": {
+        ".json": 6
+      }
+    },
+    {
+      "path": "10_config",
+      "exists": true,
+      "file_count": 10,
+      "total_size_bytes": 8189,
+      "total_size_gb": 0.0,
+      "extensions": {
+        ".json": 10
+      }
+    }
+  ],
+  "model": [
+    {
+      "path": "02_base_llm/Qwen2.5-1.5B-Instruct",
+      "exists": true,
+      "file_count": 27,
+      "total_size_bytes": 6197911567,
+      "total_size_gb": 5.772,
+      "extensions": {
+        ".tag": 1,
+        ".lock": 7,
+        "[no extension]": 8,
+        ".json": 8,
+        ".jinja": 1,
+        ".txt": 1,
+        ".safetensors": 1
+      }
+    }
+  ]
+}

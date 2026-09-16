@@ -1,0 +1,147 @@
+{
+  "version": "1.0",
+  "created_at": "2026-08-19T12:43:56.359609+00:00",
+  "updated_at": "2026-08-21T13:01:33.966124+00:00",
+  "modules": {
+    "acms": {
+      "name": "ACMS",
+      "description": "Personal and couple relationship analysis system",
+      "category": "analysis",
+      "enabled": true,
+      "runtime_status": "unloaded",
+      "data_access": true,
+      "optional": true,
+      "routing_keywords": [
+        "relationship",
+        "relationships",
+        "couple",
+        "couples",
+        "marriage",
+        "compatibility",
+        "partner",
+        "conflict",
+        "communication",
+        "dating",
+        "breakup"
+      ]
+    },
+    "development_agent": {
+      "name": "Development Agent",
+      "description": "Software, application and code development agent",
+      "category": "development",
+      "enabled": false,
+      "runtime_status": "unloaded",
+      "data_access": true,
+      "optional": true,
+      "routing_keywords": [
+        "code",
+        "coding",
+        "software",
+        "application",
+        "app",
+        "program",
+        "programming",
+        "debug",
+        "developer",
+        "development",
+        "website",
+        "api"
+      ]
+    },
+    "spiritual_research": {
+      "name": "Spiritual Research",
+      "description": "Spiritual and philosophical research module",
+      "category": "research",
+      "enabled": false,
+      "runtime_status": "unloaded",
+      "data_access": true,
+      "optional": true,
+      "routing_keywords": [
+        "spiritual",
+        "spirituality",
+        "dharma",
+        "consciousness",
+        "meditation",
+        "philosophy",
+        "scripture",
+        "mantra",
+        "research"
+      ]
+    },
+    "image_generation": {
+      "name": "Image Generation",
+      "description": "Image generation capability",
+      "category": "generation",
+      "enabled": false,
+      "runtime_status": "unloaded",
+      "data_access": true,
+      "optional": true,
+      "routing_keywords": [
+        "image",
+        "picture",
+        "photo",
+        "art",
+        "illustration",
+        "generate image",
+        "create image"
+      ]
+    },
+    "voice": {
+      "name": "Voice",
+      "description": "Speech input and output capability",
+      "category": "interface",
+      "enabled": false,
+      "runtime_status": "unloaded",
+      "data_access": true,
+      "optional": true,
+      "routing_keywords": [
+        "voice",
+        "speech",
+        "audio",
+        "transcript",
+        "transcription",
+        "speak"
+      ]
+    },
+    "ai_music_creation": {
+      "name": "AI Music Creation",
+      "description": "AI-assisted personalized music creation for relaxation, meditation, emotional wellbeing, spiritual exploration and experimental sound research",
+      "category": "generation",
+      "enabled": false,
+      "runtime_status": "unloaded",
+      "data_access": true,
+      "optional": true,
+      "routing_keywords": [
+        "music",
+        "song",
+        "healing music",
+        "meditation music",
+        "sound",
+        "frequency",
+        "audio generation",
+        "relaxation"
+      ]
+    },
+    "ai_video_creator": {
+      "name": "AI Video Creator",
+      "description": "AI-assisted video creation for Instagram Reels, YouTube Shorts, social media videos, educational videos, presentations and other video content.",
+      "category": "generation",
+      "enabled": false,
+      "runtime_status": "unloaded",
+      "data_access": true,
+      "optional": true,
+      "routing_keywords": [
+        "video",
+        "reel",
+        "reels",
+        "instagram",
+        "youtube",
+        "short",
+        "shorts",
+        "storyboard",
+        "video creator",
+        "video creation"
+      ]
+    }
+  }
+}

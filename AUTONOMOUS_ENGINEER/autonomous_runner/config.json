@@ -1,0 +1,25 @@
+{
+  "project_dir": "../Personal_AI_AGI_Core_v3_0",
+  "model_candidates": [
+    "/kaggle/working/personal_ai_models/qwen2.5-1.5b-instruct",
+    "/kaggle/input/personal-ai-qwen",
+    "/kaggle/input/datasets/vikaschandoliya/personal-ai-qwen"
+  ],
+  "max_attempts_per_milestone": 3,
+  "max_repairs_per_attempt": 2,
+  "auto_commit_only_after_verify": true,
+  "foundation_immutable_prefixes": [
+    "KAGGLE-001",
+    "KAGGLE-002",
+    "KAGGLE-003"
+  ],
+  "manual_stop_on": [
+    "destructive_change",
+    "credential_or_secret_request",
+    "external_side_effect",
+    "payment",
+    "security_boundary_change",
+    "ambiguous_requirement",
+    "repeated_failure"
+  ]
+}

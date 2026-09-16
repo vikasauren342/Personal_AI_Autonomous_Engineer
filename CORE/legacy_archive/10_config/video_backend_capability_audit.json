@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "step": "SAFE-32",
+  "gpu_available": false,
+  "gpu_name": "NONE",
+  "gpu_vram_gb": 0.0,
+  "library_status": {
+    "torch": true,
+    "torchvision": true,
+    "transformers": true,
+    "diffusers": true,
+    "accelerate": true,
+    "safetensors": true,
+    "PIL": true,
+    "numpy": true,
+    "imageio": true,
+    "imageio_ffmpeg": true,
+    "moviepy": true
+  },
+  "ffmpeg_available": true,
+  "ffprobe_available": true,
+  "hardware_tier": "CPU_ONLY",
+  "decision": "LOCAL MODERN VIDEO GENERATION NOT RECOMMENDED",
+  "large_video_models_detected": []
+}

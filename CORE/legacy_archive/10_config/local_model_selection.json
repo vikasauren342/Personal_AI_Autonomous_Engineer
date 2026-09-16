@@ -1,0 +1,70 @@
+{
+  "hardware_target": {
+    "gpu": "Tesla T4",
+    "vram_gb": 14.56,
+    "ram_gb": 12.67,
+    "strategy": "one_heavy_model_at_a_time"
+  },
+  "text": {
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "priority": "ACTIVE",
+    "purpose": [
+      "reasoning",
+      "memory-aware answering",
+      "prompt generation",
+      "product planning",
+      "script generation"
+    ]
+  },
+  "image": {
+    "candidate": "stabilityai/sdxl-turbo",
+    "priority": "TEST",
+    "resolution": "512x512",
+    "steps": 1,
+    "max_steps": 4,
+    "mode": "on_demand",
+    "commercial_license_check_required": true
+  },
+  "audio": {
+    "candidate": "Piper-compatible local TTS",
+    "priority": "TEST",
+    "mode": "CPU_FIRST",
+    "purpose": [
+      "voiceover",
+      "guided meditation",
+      "affirmation narration",
+      "reel narration"
+    ]
+  },
+  "music": {
+    "candidate": "MusicGen-Small",
+    "priority": "EXPERIMENT",
+    "mode": "on_demand",
+    "max_concurrent_heavy_models": 1
+  },
+  "video": {
+    "candidate": "Stable Video Diffusion / lightweight video pipeline",
+    "priority": "EXPERIMENT",
+    "mode": "offload",
+    "strategy": [
+      "CPU offload",
+      "chunked decoding",
+      "short clips",
+      "low resolution first",
+      "FFmpeg assembly"
+    ]
+  },
+  "production_strategy": {
+    "preferred": "generate_assets_locally",
+    "assembly": "FFmpeg",
+    "long_video": "compose_short_generated_segments",
+    "reels": "script + images/video + voice + music + captions"
+  },
+  "safety_rules": {
+    "never_load_multiple_heavy_models": true,
+    "check_vram_before_load": true,
+    "unload_after_generation": true,
+    "cleanup_cuda_cache": true,
+    "check_model_license_before_selling": true
+  }
+}

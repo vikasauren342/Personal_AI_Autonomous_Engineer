@@ -1,0 +1,113 @@
+{
+  "version": "1.0",
+  "memories": [
+    {
+      "id": "84bf60a5-4331-4d32-b4e0-3275ad135a8b",
+      "category": "goal",
+      "content": "Create an AI-based marriage system",
+      "source": "user",
+      "confidence": 1.0,
+      "status": "active",
+      "created_at": "2026-08-16T16:33:28.868899+00:00",
+      "updated_at": "2026-08-16T16:33:28.868899+00:00"
+    },
+    {
+      "id": "650fd07f-e08d-4fd2-bba4-79e5110f328d",
+      "category": "project",
+      "content": "Building a personal AI system",
+      "source": "user",
+      "confidence": 1.0,
+      "status": "active",
+      "created_at": "2026-08-16T16:33:41.678511+00:00",
+      "updated_at": "2026-08-16T16:33:41.678511+00:00"
+    },
+    {
+      "id": "6e9a64f7-52bc-42af-a7be-a3cb601109d7",
+      "category": "goal",
+      "content": "Research spirituality using AI",
+      "source": "user",
+      "confidence": 1.0,
+      "status": "active",
+      "created_at": "2026-08-16T16:33:41.688450+00:00",
+      "updated_at": "2026-08-16T16:33:41.688450+00:00"
+    },
+    {
+      "id": "f9aeead1-be3d-4df5-b638-a36ec5b0fba8",
+      "category": "goal",
+      "content": "Build a robotics laboratory",
+      "source": "user",
+      "confidence": 1.0,
+      "status": "inactive",
+      "created_at": "2026-08-16T16:48:10.836701+00:00",
+      "updated_at": "2026-08-16T16:49:59.725958+00:00"
+    },
+    {
+      "id": "bf5bb2db-b0eb-4555-a537-afec92d35443",
+      "category": "goal",
+      "content": "Build an AI system for relationship analysis",
+      "source": "user",
+      "confidence": 1.0,
+      "status": "active",
+      "created_at": "2026-08-16T16:48:39.404283+00:00",
+      "updated_at": "2026-08-16T16:48:39.404283+00:00"
+    },
+    {
+      "id": "58e8586b-4d04-4857-bb85-a552a143dfbd",
+      "category": "preference",
+      "content": "Prefer detailed explanations with practical examples",
+      "source": "user",
+      "confidence": 1.0,
+      "status": "active",
+      "created_at": "2026-08-16T16:48:54.952732+00:00",
+      "updated_at": "2026-08-16T16:48:54.952732+00:00"
+    },
+    {
+      "id": "4aab7235-03a0-49db-a33a-7a047ddc6eb7",
+      "category": "interest",
+      "content": "Embedded systems",
+      "source": "user",
+      "confidence": 1.0,
+      "explicitness": "explicit",
+      "evidence": "I am interested in embedded systems.",
+      "status": "active",
+      "created_at": "2026-08-16T17:02:41.042126+00:00",
+      "updated_at": "2026-08-16T17:02:41.042126+00:00"
+    },
+    {
+      "id": "515231ce-3a16-4f25-a813-036fef35a5c9",
+      "category": "project",
+      "content": "May build a spiritual research tool",
+      "source": "user",
+      "confidence": 0.6,
+      "explicitness": "tentative",
+      "evidence": "Maybe I will build a spiritual research tool someday.",
+      "status": "tentative",
+      "created_at": "2026-08-16T17:02:47.119118+00:00",
+      "updated_at": "2026-08-16T17:02:47.119118+00:00"
+    },
+    {
+      "id": "7adf9bc4-c9b7-40c5-a6ae-2a56268c78f8",
+      "category": "project",
+      "content": "May build a spiritual research tool",
+      "source": "user",
+      "confidence": 0.6,
+      "explicitness": "tentative",
+      "evidence": "Maybe I will build a spiritual research tool someday.",
+      "status": "tentative",
+      "created_at": "2026-08-16T17:02:48.634119+00:00",
+      "updated_at": "2026-08-16T17:02:48.634119+00:00"
+    },
+    {
+      "id": "a3ac92c8-ab94-4e41-a6fb-54a128121b51",
+      "category": "goal",
+      "content": "Build an AI system for analyzing relationships",
+      "source": "user",
+      "confidence": 1.0,
+      "explicitness": "explicit",
+      "evidence": "I want to build an AI system for analyzing relationships.",
+      "status": "active",
+      "created_at": "2026-08-16T17:11:40.581570+00:00",
+      "updated_at": "2026-08-16T17:11:40.581570+00:00"
+    }
+  ]
+}

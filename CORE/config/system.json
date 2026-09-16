@@ -1,0 +1,26 @@
+{
+  "version": "3.0",
+  "architecture": "model-agnostic-local-first-autonomous-core",
+  "execution": {
+    "lazy_load": true,
+    "max_autonomous_steps": 5,
+    "save_memory": true,
+    "safe_shell": true
+  },
+  "future_training": {
+    "base_model_external": true,
+    "adapter_dir": "storage/adapters",
+    "dataset_dir": "storage/datasets",
+    "checkpoint_dir": "storage/checkpoints"
+  },
+  "capabilities": {
+    "chat": true,
+    "research": true,
+    "coding": true,
+    "tools": true,
+    "memory": true,
+    "evaluation": true,
+    "learning_ledger": true,
+    "media_modules": true
+  }
+}

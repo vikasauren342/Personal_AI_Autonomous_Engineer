@@ -1,0 +1,23 @@
+{
+  "product_id": "product_cac27378a342",
+  "product_type": "digital_product",
+  "created_at": "2026-08-23T21:22:07.428206",
+  "input": {
+    "product_type": "beginner embedded systems workbook",
+    "target_customer": "engineering students",
+    "problem": "difficulty turning theory into practical projects",
+    "transformation": "structured project-based learning",
+    "chapters": "microcontrollers, GPIO, UART, sensors, debugging",
+    "format": "PDF workbook",
+    "pricing_position": "affordable beginner product",
+    "cta": "Start the first practical project"
+  },
+  "prompt": {
+    "prompt_id": "07db871c29f7",
+    "type": "digital_product",
+    "prompt": "ROLE: Expert Digital Product Prompt designer\nOBJECTIVE: Create high-quality digital_product output.\n\nINPUT SPECIFICATION:\n- product_type: beginner embedded systems workbook\n- target_customer: engineering students\n- problem: difficulty turning theory into practical projects\n- transformation: structured project-based learning\n- chapters: microcontrollers, GPIO, UART, sensors, debugging\n- format: PDF workbook\n- pricing_position: affordable beginner product\n- cta: Start the first practical project\n\nQUALITY REQUIREMENTS:\n- Follow the supplied specifications.\n- Optimize for clarity and usability.\n- Avoid unnecessary filler.\n- Produce a practical production-ready result.\n- Respect platform constraints.\n- Clearly separate factual claims from creative or spiritual interpretation.",
+    "missing_fields": [],
+    "created_at": "2026-08-23T21:22:07.428186"
+  },
+  "status": "prompt_ready"
+}
