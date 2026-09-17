@@ -1,4 +1,4 @@
-from personal_ai.core.contracts import Evaluation
+from ..core.contracts import Evaluation
 class EvaluationGate:
     def evaluate(self, observations):
         issues=[]
