@@ -1,6 +1,6 @@
 import uuid
 from .contracts import Task
-from personal_ai.core.planner import Planner
+from .planner import Planner
 from personal_ai.execution.engine import ExecutionEngine
 
 class Orchestrator:
